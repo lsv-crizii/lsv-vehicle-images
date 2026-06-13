@@ -8,3 +8,4 @@ Fivem LSV Vehicle Images
 | `wolfsbane2` | Wolfsbane Custom |
 | `wayfarer` | Wayfarer |
 | `angel` | Angel |
+| `diabolus` | Diabolus |
