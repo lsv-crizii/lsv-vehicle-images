@@ -10,3 +10,4 @@ Fivem LSV Vehicle Images
 | `angel` | Angel |
 | `diabolus` | Diabolus |
 | `freeway` | Freeway |
+| `hellfury` | Hellfury |
